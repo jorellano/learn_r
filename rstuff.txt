@@ -1,0 +1,20 @@
+rstuff.md
+
+I have decided to learn R, it is important for me to make visualizations in R. Also, understanding how to use R is important when I cannot use Python for the same problem.
+
+
+
+
+
+This
+
+Basic data types in R
+
+R works with numerous data types. Some of the most basic types to get started are:
+
+Decimal values like 4.5 are called numerics.
+Natural numbers like 4 are called integers. Integers are also numerics.
+Boolean values (TRUE or FALSE) are called logical.
+Text (or string) values are called characters.
+
+
